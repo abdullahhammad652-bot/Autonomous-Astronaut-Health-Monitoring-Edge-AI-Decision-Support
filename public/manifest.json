@@ -1,0 +1,19 @@
+{
+  "short_name": "AstroPulse",
+  "name": "AstroPulse: NASA Astronaut Health Telemetry",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#060911",
+  "theme_color": "#060911",
+  "display": "standalone",
+  "orientation": "portrait",
+  "description": "Deep-space astronaut autonomous health monitoring & edge AI decision support system.",
+  "categories": ["medical", "health", "productivity", "utilities"]
+}

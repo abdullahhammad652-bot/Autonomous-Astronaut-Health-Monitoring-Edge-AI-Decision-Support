@@ -1,0 +1,16 @@
+{
+  "name": "astropulse-backend",
+  "version": "2.4.0",
+  "description": "High-Scale Distributed Backend for NASA Astronaut Telemetry System",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "cluster": "node index.js --cluster",
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
